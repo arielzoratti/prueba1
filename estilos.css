@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: solid 0.5px rgb(40, 18, 161);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+#titulo {
+    color: blue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 36px;
+    background-color: aquamarine;
+    }
